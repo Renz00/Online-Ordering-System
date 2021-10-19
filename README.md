@@ -5,7 +5,7 @@
  
  Technologies used:
   <br/>
- HTML Bootstrap for Customer Website Frontend, 
- Vue JS for Admin Dashboard Frontend,
- Laravel for Backend / API,
- MySQL for Database
+ HTML Bootstrap for Customer Website Frontend,  <br/>
+ Vue JS for Admin Dashboard Frontend, <br/>
+ Laravel for Backend / API, <br/>
+ MySQL for Database <br/>
