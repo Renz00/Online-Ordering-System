@@ -9,3 +9,4 @@
  Vue JS for Admin Dashboard Frontend, <br/>
  Laravel for Backend / API, <br/>
  MySQL for Database <br/>
+ XAMPP for development server
