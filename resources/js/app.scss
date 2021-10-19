@@ -1,0 +1,14 @@
+// Define variable defaults
+$primary: #2F999F;
+$secondary: #D0F245;
+$warning: #DF6F3E;
+$danger: #AB1D2B;
+$secondary: purple;
+$success: green;
+$info: #052E37;
+$light: #0b4141;
+$dark: black;
+
+// Then import Bootstrap an BootstrapVue SCSS files (order is important)
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+

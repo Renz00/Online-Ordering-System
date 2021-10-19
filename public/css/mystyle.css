@@ -1,0 +1,5 @@
+
+ /* This is needed for custom file input design */
+ input[type="file"] {
+    display: none;
+  }

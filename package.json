@@ -1,0 +1,52 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@mdi/font": "^6.1.95",
+        "axios": "^0.21.4",
+        "bootstrap": "^4.6.0",
+        "case-sensitive-paths-webpack-plugin": "^2.4.0",
+        "css-loader": "^6.2.0",
+        "deepmerge": "^4.2.2",
+        "jquery": "^3.6",
+        "laravel-echo": "^1.11.2",
+        "laravel-mix": "^6.0.31",
+        "lodash": "^4.17.19",
+        "popper.js": "^1.16.1",
+        "postcss": "^8.1.14",
+        "pusher-js": "^4.3.1",
+        "resolve-url-loader": "^3.1.2",
+        "sass": "^1.32.13",
+        "sass-loader": "^11.1.1",
+        "vue": "^2.6.14",
+        "vue-loader": "^15.9.8",
+        "vue-template-compiler": "^2.6.12",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^4.2.1"
+    },
+    "dependencies": {
+        "bootstrap-input-spinner": "^2.1.2",
+        "bootstrap-vue": "^2.21.2",
+        "chart.js": "^2.9.4",
+        "crypto-js": "^4.1.1",
+        "dateformat": "^5.0.1",
+        "es6-promise": "^4.2.8",
+        "moment": "^2.29.1",
+        "socket.io": "^4.3.0",
+        "vue-chartjs": "^3.5.1",
+        "vue-chartkick": "^0.6.1",
+        "vue-material-design-icons": "^4.12.1",
+        "vue-router": "^3.5.2",
+        "vuetify": "^2.5.8",
+        "vuetify-loader": "^1.7.3",
+        "vuex": "^3.6.2"
+    }
+}
