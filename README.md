@@ -1,7 +1,7 @@
 # ONLINE-ORDERING-SYSTEM
  Online Ordering System for a fictional restaurant
  <br/>
- Author: Renz De la Torre
+ <b>Author:</b> Renz De la Torre
  
  Technologies used:
   <br/>
