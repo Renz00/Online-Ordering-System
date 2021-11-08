@@ -11,4 +11,4 @@
  MySQL for Database <br/>
  XAMPP for development server <br/>
  
- *Check the DATABASE SCHEMA PDF file for the Database Structure
+ <em>*Check the DATABASE SCHEMA PDF file for the Database Structure</em>
