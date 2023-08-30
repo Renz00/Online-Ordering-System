@@ -1,5 +1,5 @@
 # ONLINE-ORDERING-SYSTEM
- Online Ordering System for a fictional restaurant.
+ Online Ordering System for a restaurant.
  <br/>
  This web application has Laravel REST API with token authentication, Livewire for dynamic search functionality, Pusher js and Websockets for realtime notifications, and dynamic admin dashboard using Vue 2.
   <br/>
