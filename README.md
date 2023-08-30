@@ -2,6 +2,7 @@
  Online Ordering System for a fictional restaurant.
  <br/>
  This web application has Laravel REST API with token authentication, pusher js and websockets for realtime notifications, and dynamic admin dashboard using Vue 2.
+  <br/>
  <b>Author:</b> Renz De la Torre
  
  Technologies used:
