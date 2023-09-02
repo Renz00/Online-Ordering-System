@@ -21,31 +21,57 @@ The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The admin
 <br />
 <br />
 
-<strong>Specific objectives:</strong>
+<strong>Specific Objectives:</strong>
 <ul>
     <li>
-        Create an online Menu.
+        Create an online Menu in the website.
        <ul>
-           <li>Allow users to filter and search menu items.</li>
+           <li>Users can filter and search menu items.</li>
+           <li>Admin dashboard user can add, edit, and remove products</li>
        </ul> 
     </li>
     <li>
           Implement user account authentication.
        <ul>
+           <li>Users can register to the system and obtain a user account.</li>
            <li>Login using email and password.</li>
-           <li>Save account information.</li>
+           <li>Add and update user details and contact information.</li>
        </ul> 
     </li>
     <li>
-          Create a Menu for customers.
+          Allow customers to manage their orders.
        <ul>
-           <li></li>
+           <li>Users can add, edit, and remove menu items from the orders.</li>
+           <li>Customers can filter and search for specific orders. They can also see their order history.</li>
        </ul> 
+    </li>
+     <li>
+          Reviews can be created for menu items.
+       <ul>
+           <li>Customers can add, edit, and remove their reviews.</li>
+           <li>Admin dashboard users can manage and moderate the reviews.</li>
+       </ul> 
+    </li>
+      <li>
+          Reviews can be created for menu items.
+       <ul>
+           <li>Customers can add, edit, and remove their reviews.</li>
+           <li>Admin dashboard users can manage and moderate the reviews.</li>
+       </ul> 
+    </li>
+      <li>
+          Admin dashboard users can receive notifications.
+       <ul>
+           <li>Notifications will be created when an order or review has been made.</li>
+       </ul> 
+    </li>
+     <li>
+          Admin dashboard will have monthly sales and best products reports.
     </li>
 </ul>
 
  
- Technologies used:
+ <strong>Technologies used:  </strong>
   <br/>
  HTML, Bootstrap, and Javascript for Customer Website Frontend,  <br/>
  Vue JS 2 for Admin Dashboard Frontend, <br/>
@@ -56,7 +82,8 @@ The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The admin
  <em>*Check the DATABASE SCHEMA PDF file for the Database Structure</em>
  
  Website Screenshots:
- 
+ ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/605a4267-0720-4655-a4fb-29e24a0c6285)
+ ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/248dc39a-d52f-4646-8002-486d0b748bcd)
 ![Capture2](https://user-images.githubusercontent.com/88235225/157015003-affbbcbc-f885-4bea-adfd-0df68210f4c4.PNG)
 ![Captured](https://user-images.githubusercontent.com/88235225/157015010-f56ce09f-ac89-42a6-b4ce-d4c1854f0a66.PNG)
 ![Captureddd](https://user-images.githubusercontent.com/88235225/157015021-4db6872b-a90d-4e91-af93-9b2b51c4db82.PNG)
