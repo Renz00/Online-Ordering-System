@@ -22,6 +22,27 @@ The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The admin
 <br />
 
 <strong>Specific objectives:</strong>
+<ul>
+    <li>
+        Create an online Menu.
+       <ul>
+           <li>Allow users to filter and search menu items.</li>
+       </ul> 
+    </li>
+    <li>
+          Implement user account authentication.
+       <ul>
+           <li>Login using email and password.</li>
+           <li>Save account information.</li>
+       </ul> 
+    </li>
+    <li>
+          Create a Menu for customers.
+       <ul>
+           <li></li>
+       </ul> 
+    </li>
+</ul>
 
  
  Technologies used:
