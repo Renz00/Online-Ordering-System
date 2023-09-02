@@ -84,7 +84,7 @@ The project does not allow users to track the current location of their order. T
  
  <em>*Check the DATABASE SCHEMA PDF file for the Database Structure</em>
  
- <strong>Website Screenshots:</strong> <em>Video Demo: [https://youtu.be/NaUB5dGDnWU](https://youtu.be/m8U_KADvrDA)</em>
+ <strong>Website Screenshots: <em>Video Demo:</strong> [https://youtu.be/NaUB5dGDnWU](https://youtu.be/m8U_KADvrDA)</em>
  ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/605a4267-0720-4655-a4fb-29e24a0c6285)
  ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/248dc39a-d52f-4646-8002-486d0b748bcd)
 ![Capture2](https://user-images.githubusercontent.com/88235225/157015003-affbbcbc-f885-4bea-adfd-0df68210f4c4.PNG)
@@ -92,7 +92,7 @@ The project does not allow users to track the current location of their order. T
 ![Captureddd](https://user-images.githubusercontent.com/88235225/157015021-4db6872b-a90d-4e91-af93-9b2b51c4db82.PNG)
 ![Capturesfsdfsd](https://user-images.githubusercontent.com/88235225/157015023-e474a407-8a7f-44cf-8026-45f9e4d47858.PNG)
   <br/>  <br/>
-<strong>Admin Dashboard<strong/> <em>Video Demo: [https://youtu.be/NaUB5dGDnWU](https://youtu.be/NaUB5dGDnWU)</em>
+<strong>Admin Dashboard<em> Video Demo:<strong/>  [https://youtu.be/NaUB5dGDnWU](https://youtu.be/NaUB5dGDnWU)</em>
 ![awdasdasd](https://user-images.githubusercontent.com/88235225/157015030-50de7b1c-3c00-41ae-bee9-aa3513c1b32a.PNG)
 ![Capture](https://user-images.githubusercontent.com/88235225/157015035-12f66d1e-f804-4600-a6ec-c71c296e0768.PNG)
 ![sfsdfsd](https://user-images.githubusercontent.com/88235225/157015039-1a1a9d0f-5120-42db-b214-c1139dff8301.PNG)
