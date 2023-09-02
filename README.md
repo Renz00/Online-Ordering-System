@@ -88,7 +88,7 @@ The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The admin
 ![Captured](https://user-images.githubusercontent.com/88235225/157015010-f56ce09f-ac89-42a6-b4ce-d4c1854f0a66.PNG)
 ![Captureddd](https://user-images.githubusercontent.com/88235225/157015021-4db6872b-a90d-4e91-af93-9b2b51c4db82.PNG)
 ![Capturesfsdfsd](https://user-images.githubusercontent.com/88235225/157015023-e474a407-8a7f-44cf-8026-45f9e4d47858.PNG)
-
+  <br/>  <br/>
 <strong>Admin Dashboard<strong/>
 ![awdasdasd](https://user-images.githubusercontent.com/88235225/157015030-50de7b1c-3c00-41ae-bee9-aa3513c1b32a.PNG)
 ![Capture](https://user-images.githubusercontent.com/88235225/157015035-12f66d1e-f804-4600-a6ec-c71c296e0768.PNG)
