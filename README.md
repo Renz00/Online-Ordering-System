@@ -1,13 +1,13 @@
 # ONLINE-ORDERING-SYSTEM
   <strong>Online Ordering System</strong> for a restaurant.
- <br/> <br/>
+ <br/>
  This web application has Laravel REST API with token authentication, Livewire for dynamic search functionality, Pusher js and Websockets for realtime notifications, and dynamic admin dashboard using Vue 2.
   <br/>
  <b>Author:</b> Renz De la Torre
  <br/>
   <br/>
- <strong>Scope of the Project:</strong> <br /> <br/>
- The web application allows customers to browse the menu, process orders, and track their orders until it arrives to the customer. Customers can create a user account where they can add their address and contact information for more convenient transactions, they can also add menu items to their favorites page.
+ <strong>Scope of the Project:</strong> <br />
+ The web application allows customers to browse the menu, process orders, and track their orders until it arrives, they will also be able to browse their past orders and invoices. Customers can create a user account where they can add their address and contact information for more convenient transactions, they can also add menu items to their favorites page.
  <br />
   <br />
  Once a customer selects a menu item, they can add it to their cart where they will see a breakdown of their order. They will also see their current delivery address and contact information.
@@ -21,7 +21,7 @@ The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The admin
 <br />
 <br />
 
-Specific objectives:
+<strong>Specific objectives:</strong>
 
  
  Technologies used:
