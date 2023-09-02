@@ -17,7 +17,7 @@
 <br />
 The admin dashboard will be handled by the internal personnel working in the restaurant. In the dashboard, they will be able to track customer orders, manage menu items, reviews, and see reports. The users of the admin dashboard can also receive notifications when an order or review has been made.
 <br /> <br />
-The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The administrator has full access.
+The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The administrator has full access while the cashier is limited.
 <br />
 <br />
 The project does not allow users to track the current location of their order. The only payment method available to customers is cash on delivery. The notifications are only produced within the system.
