@@ -6,7 +6,7 @@
  <b>Author:</b> Renz De la Torre
  <br/>
   <br/>
- <strong>Scope of the Project:</strong> <br />
+ <strong>Scope of the Project:</strong> <br /> <br/>
  The web application allows customers to browse the menu, process orders, and track their orders until it arrives to the customer. Customers can create a user account where they can add their address and contact information for more convenient transactions, they can also add menu items to their favorites page.
  <br />
   <br />
