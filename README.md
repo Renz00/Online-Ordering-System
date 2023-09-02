@@ -5,16 +5,17 @@
   <br/>
  <b>Author:</b> Renz De la Torre
 
- Scope of the Project: <br />
+ <strong>Scope of the Project:<strong /> <br />
  The web application allows customers to browse the menu, process orders, and track their orders until it arrives to the customer. Customers can create a user account where they can add their address and contact information for more convenient transactions, they can also add menu items to their favorites page.
  <br />
+  <br />
  Once a customer selects a menu item, they can add it to their cart where they will see a breakdown of their order. They will also see their current delivery address and contact information.
-<br />
+<br /> <br />
  Customers are able to create reviews for the menu items and share it with other customers. The customer can also edit or remove the review they have created.
 <br />
 <br />
 The admin dashboard will be handled by the internal personnel working in the restaurant. In the dashboard, they will be able to track customer orders, manage menu items, reviews, and see reports. The users of the admin dashboard can also receive notifications when an order or review has been made.
-<br />
+<br /> <br />
 The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The administrator has full access.
 <br />
 <br />
