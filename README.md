@@ -20,6 +20,7 @@ The admin dashboard will be handled by the internal personnel working in the res
 The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The administrator has full access.
 <br />
 <br />
+The project does not allow users to track the current location of their order. The only payment method available to customers is cash on delivery. The notifications are only produced within the system.
 
 <strong>Specific Objectives:</strong>
 <ul>
