@@ -38,6 +38,7 @@ The project does not allow users to track the current location of their order. T
            <li>Users can register to the system and obtain a user account.</li>
            <li>Login using email and password.</li>
            <li>Add and update user details and contact information.</li>
+           <li>Users can only create an order if they are logged into an account.</li>
        </ul> 
     </li>
     <li>
