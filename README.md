@@ -28,6 +28,7 @@ The project does not allow users to track the current location of their order. T
         Create an online Menu in the website.
        <ul>
            <li>Users can filter and search menu items.</li>
+           <li>Customers can add menu items to their cart.</li>
            <li>Admin dashboard users can add, edit, and remove products</li>
        </ul> 
     </li>
