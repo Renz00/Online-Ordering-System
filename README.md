@@ -84,7 +84,7 @@ The project does not allow users to track the current location of their order. T
  
  <em>*Check the DATABASE SCHEMA PDF file for the Database Structure</em>
  
- <strong>Website Screenshots: <em>Video Demo:</strong> [https://youtu.be/NaUB5dGDnWU](https://youtu.be/m8U_KADvrDA)</em>
+ <strong>Website <em>Video Demo:</strong> [https://youtu.be/NaUB5dGDnWU](https://youtu.be/m8U_KADvrDA)</em>
  ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/605a4267-0720-4655-a4fb-29e24a0c6285)
  ![image](https://github.com/Renz00/Online-Ordering-System/assets/88235225/248dc39a-d52f-4646-8002-486d0b748bcd)
 ![Capture2](https://user-images.githubusercontent.com/88235225/157015003-affbbcbc-f885-4bea-adfd-0df68210f4c4.PNG)
