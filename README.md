@@ -4,23 +4,46 @@
  This web application has Laravel REST API with token authentication, Livewire for dynamic search functionality, Pusher js and Websockets for realtime notifications, and dynamic admin dashboard using Vue 2.
   <br/>
  <b>Author:</b> Renz De la Torre
- <br/>
+ <br/> <br/>
+ <strong>Technologies used:  </strong>
   <br/>
- <strong>Scope of the Project:</strong> <br />
- The web application allows customers to browse the menu, process orders, and track their orders until it arrives, they will also be able to browse their past orders and invoices. Customers can create a user account where they can add their address and contact information for more convenient transactions, they can also add menu items to their favorites page.
- <br />
-  <br />
- Once a customer selects a menu item, they can add it to their cart where they will see a breakdown of their order. They will also see their current delivery address and contact information.
-<br /> <br />
- Customers are able to create reviews for the menu items and share it with other customers. The customer can also edit or remove the review they have created.
-<br />
-<br />
-The admin dashboard will be handled by the internal personnel working in the restaurant. In the dashboard, they will be able to track customer orders, manage menu items, reviews, and see reports. The users of the admin dashboard can also receive notifications when an order or review has been made.
-<br /> <br />
-The admin dashboard has 2 levels of access: Adminitrator, and Cashier. The administrator has full access while the cashier is limited.
-<br />
-<br />
-The project does not allow users to track the current location of their order. The only payment method available to customers is cash on delivery. The notifications are only produced within the system.
+ HTML, Bootstrap, and Javascript for Customer Website Frontend,  <br/>
+ Vue JS 2 for Admin Dashboard Frontend, <br/>
+ Laravel 8 for Backend / API, <br/>
+ MySQL for Database <br/>
+ XAMPP for development server <br/>
+  <br/>
+ <strong>Build and Run locally:</strong> <br />
+ <ol>
+    <li>
+      Clone repository using git clone https://github.com/Renz00/Online-Ordering-System.git
+    </li>
+     <li>
+      cd into project directory.
+    </li>
+     <li>
+      Run composer install
+    </li>
+     <li>
+      Run npm install
+    </li>
+     <li>
+      Copy .env.example file and rename it to .env, then provide the necessary configurations.
+    </li>
+     <li>
+      Run php artisan key:generate
+    </li>
+     <li>
+      Create an empty MySQL database, keep in mind your configuration in the .env file.
+    </li>
+     <li>
+      Run php artisan migrate
+    </li>
+     <li>
+      Run php artisan serve
+    </li>
+ </ol>
+
 
 <strong>Specific Objectives:</strong>
 <ul>
@@ -72,15 +95,6 @@ The project does not allow users to track the current location of their order. T
           Admin dashboard will have monthly sales and best products reports.
     </li>
 </ul>
-
- 
- <strong>Technologies used:  </strong>
-  <br/>
- HTML, Bootstrap, and Javascript for Customer Website Frontend,  <br/>
- Vue JS 2 for Admin Dashboard Frontend, <br/>
- Laravel 8 for Backend / API, <br/>
- MySQL for Database <br/>
- XAMPP for development server <br/>
  
  <em>*Check the DATABASE SCHEMA PDF file for the Database Structure</em>
  
