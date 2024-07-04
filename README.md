@@ -13,7 +13,7 @@
  MySQL for Database <br/>
  XAMPP for development server <br/>
   <br/>
- <strong>Build and Run locally:</strong> <br />
+ <strong>How to build and run locally:</strong> <br />
  <ol>
     <li>
       Clone repository using git clone https://github.com/Renz00/Online-Ordering-System.git
