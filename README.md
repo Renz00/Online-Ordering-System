@@ -28,7 +28,7 @@
       Run npm install
     </li>
      <li>
-      Copy .env.example file and rename it to .env, then provide the necessary configurations.
+      Copy .env.example file and rename it to .env then provide the necessary configurations.
     </li>
      <li>
       Run php artisan key:generate
